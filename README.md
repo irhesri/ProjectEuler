@@ -15,10 +15,10 @@ You can find Project Euler problems in the links below:
  
 
  
- <br/>
+<br/>
  
- ## Problem 1: Multiples of 3 and 5 <sup>[Easy]</sup>
- Find the sum of all the multiples of 3 or 5 below a given number.
+## Problem 1: Multiples of 3 and 5 <sup>[Easy]</sup>
+Find the sum of all the multiples of 3 or 5 below a given number.
 
 ## Problem 2: Even Fibonacci numbers <sup>[Easy]</sup>
 Find the sum of all the even-valued terms in the Fibonacci sequence whose values do not exceed a given limit.
@@ -34,3 +34,10 @@ Find the smallest positive number that is evenly divisible by all of the numbers
 
 ## Problem 6: Sum square difference <sup>[Easy]</sup>
 Find the difference between the sum of the squares of the first n natural numbers and the square of the sum.
+
+## Problem 7: 10001st prime <sup>[Easy]</sup>
+Find the nth prime number, where n is a given number.
+
+## Problem 8: Largest product in a series <sup>[Easy]</sup>
+Find the thirteen adjacent digits in a 1000-digit number that have the greatest product. Return the product.
+
