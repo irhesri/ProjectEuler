@@ -41,3 +41,9 @@ Find the nth prime number, where n is a given number.
 ## Problem 8: Largest product in a series <sup>[Easy]</sup>
 Find the thirteen adjacent digits in a 1000-digit number that have the greatest product. Return the product.
 
+## Problem 9: Special Pythagorean triplet <sup>[Easy]</sup>
+Find the product of the only Pythagorean triplet (a, b, c) where a + b + c = n and a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>, for a given value of n.
+
+## Problem 10: Summation of primes <sup>[Medium]</sup>
+Find the sum of all the prime numbers below a given number.
+
