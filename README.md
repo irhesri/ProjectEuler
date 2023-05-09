@@ -47,3 +47,5 @@ Find the product of the only Pythagorean triplet (a, b, c) where a + b + c = n a
 ## Problem 10: Summation of primes <sup>[Medium]</sup>
 Find the sum of all the prime numbers below a given number.
 
+## Problem 11: Largest product in a grid <sup>[Easy]</sup>
+Find the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in a given grid.
