@@ -49,3 +49,6 @@ Find the sum of all the prime numbers below a given number.
 
 ## Problem 11: Largest product in a grid <sup>[Easy]</sup>
 Find the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in a given grid.
+
+## Problem 12: Highly divisible triangular number <sup>[Easy]</sup>
+Find the first triangular number with over a given number of divisors.
