@@ -52,3 +52,6 @@ Find the greatest product of four adjacent numbers in the same direction (up, do
 
 ## Problem 12: Highly divisible triangular number <sup>[Easy]</sup>
 Find the first triangular number with over a given number of divisors.
+
+## Problem 13: Large sum <sup>[Easy]</sup>
+Find the first ten digits of the sum of a given list of 50-digit numbers.
