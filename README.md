@@ -55,3 +55,7 @@ Find the first triangular number with over a given number of divisors.
 
 ## Problem 13: Large sum <sup>[Easy]</sup>
 Find the first ten digits of the sum of a given list of 50-digit numbers.
+
+## Problem 14: Longest Collatz sequence <sup>[Easy]</sup>
+Find the starting number below a given limit that produces the longest Collatz sequence.
+
