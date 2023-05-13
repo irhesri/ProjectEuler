@@ -1,4 +1,10 @@
 # ProjectEuler+
+
+### Welcome to my Project Euler journey! 
+In this repository, I share my journey of solving various Project Euler problems, while exploring the fascinating world of mathematics and applying my programming skills to solve various problems. <br/>
+By solving these problems, I aim to improve my programming skills and enhance my problem-solving abilities by learning new concepts, techniques, and algorithms.
+> Note:
+> The solutions provided in this repository have been developed with consideration for the time limit set by **HackerRank**.
 ___
 __Project Euler__ is a collection of challenging __mathematical__ and __computational problems__ that require creative problem-solving skills to solve. These problems range in difficulty from relatively easy to extremely challenging, and they cover a wide range of topics, from number theory and combinatorics to graph theory and computational geometry.
 <br/>
@@ -17,45 +23,45 @@ You can find Project Euler problems in the links below:
  
 <br/>
  
-## Problem 1: Multiples of 3 and 5 <sup>[Easy]</sup>
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem?isFullScreen> Problem 1: </a> Multiples of 3 and 5 <sup>[Easy]</sup>
 Find the sum of all the multiples of 3 or 5 below a given number.
-
-## Problem 2: Even Fibonacci numbers <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem?isFullScreen> Problem 2: </a> Even Fibonacci numbers <sup>[Easy]</sup>
 Find the sum of all the even-valued terms in the Fibonacci sequence whose values do not exceed a given limit.
-
-## Problem 3: Largest prime factor <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem?isFullScreen> Problem 3: </a> Largest prime factor <sup>[Easy]</sup>
 Find the largest prime factor of a given number.
-
-## Problem 4: Largest palindrome product <sup>[Medium]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem?isFullScreen> Problem 4: </a> Largest palindrome product <sup>[Medium]</sup>
 Find the largest palindrome made from the product of two n-digit numbers.
-
-## Problem 5: Smallest multiple <sup>[Medium]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem?isFullScreen> Problem 5: </a> Smallest multiple <sup>[Medium]</sup>
 Find the smallest positive number that is evenly divisible by all of the numbers from 1 to a given number.
-
-## Problem 6: Sum square difference <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem?isFullScreen> Problem 6: </a> Sum square difference <sup>[Easy]</sup>
 Find the difference between the sum of the squares of the first n natural numbers and the square of the sum.
-
-## Problem 7: 10001st prime <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem?isFullScreen> Problem 7: </a> 10001st prime <sup>[Easy]</sup>
 Find the nth prime number, where n is a given number.
-
-## Problem 8: Largest product in a series <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem?isFullScreen> Problem 8: </a> Largest product in a series <sup>[Easy]</sup>
 Find the thirteen adjacent digits in a 1000-digit number that have the greatest product. Return the product.
-
-## Problem 9: Special Pythagorean triplet <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem?isFullScreen> Problem 9: </a> Special Pythagorean triplet <sup>[Easy]</sup>
 Find the product of the only Pythagorean triplet (a, b, c) where a + b + c = n and a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>, for a given value of n.
-
-## Problem 10: Summation of primes <sup>[Medium]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem?isFullScreen> Problem 10: </a> Summation of primes <sup>[Medium]</sup>
 Find the sum of all the prime numbers below a given number.
-
-## Problem 11: Largest product in a grid <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem?isFullScreen> Problem 11: </a> Largest product in a grid <sup>[Easy]</sup>
 Find the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in a given grid.
-
-## Problem 12: Highly divisible triangular number <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler012/problem?isFullScreen> Problem 12: </a> Highly divisible triangular number <sup>[Easy]</sup>
 Find the first triangular number with over a given number of divisors.
-
-## Problem 13: Large sum <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem?isFullScreen> Problem 13: </a> Large sum <sup>[Easy]</sup>
 Find the first ten digits of the sum of a given list of 50-digit numbers.
-
-## Problem 14: Longest Collatz sequence <sup>[Easy]</sup>
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler014/problem?isFullScreen> Problem 14: </a>  Longest Collatz sequence <sup>[Easy]</sup>
 Find the starting number below a given limit that produces the longest Collatz sequence.
-
+___
