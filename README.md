@@ -66,4 +66,4 @@ ___
 Find the starting number below a given limit that produces the longest Collatz sequence.
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler015/problem?isFullScreen> Problem 15: </a>  Lattice paths <sup>[Easy]</sup>
-Find the number of routes from the top left corner to the bottom right corner of a given grid of size n x n, where you can only move right or down.
+Find the number of routes from the top left corner to the bottom right corner of a given grid of size n x m, where you can only move right or down.
