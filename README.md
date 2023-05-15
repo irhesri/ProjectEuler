@@ -42,7 +42,7 @@ ___
 Find the difference between the sum of the squares of the first n natural numbers and the square of the sum.
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem?isFullScreen> Problem 7: </a> 10001st prime <sup>[Easy]</sup>
-Find the nth prime number, where n is a given number.
+Find the n<sup>th</sup> prime number, where n is a given number.
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem?isFullScreen> Problem 8: </a> Largest product in a series <sup>[Easy]</sup>
 Find the thirteen adjacent digits in a 1000-digit number that have the greatest product. Return the product.
@@ -67,3 +67,6 @@ Find the starting number below a given limit that produces the longest Collatz s
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler015/problem?isFullScreen> Problem 15: </a>  Lattice paths <sup>[Easy]</sup>
 Find the number of routes from the top left corner to the bottom right corner of a given grid of size n x m, where you can only move right or down.
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem?isFullScreen> Problem 16: </a>  Power digit sum <sup>[Easy]</sup>
+Find the sum of the digits of the result of 2<sup>n</sup>.
