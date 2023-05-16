@@ -70,3 +70,8 @@ Find the number of routes from the top left corner to the bottom right corner of
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem?isFullScreen> Problem 16: </a>  Power digit sum <sup>[Easy]</sup>
 Find the sum of the digits of the result of 2<sup>n</sup>.
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler017/problem?isFullScreen> Problem 17: </a>  Number to Words <sup>[Easy]</sup>
+[Hackerrank] Given a number, you have to write it in words. 
+
+[projecteuler] Find the number of letters used to write out all the numbers from 1 to a given number, inclusive. (writing out numbers is in compliance with British usage)
