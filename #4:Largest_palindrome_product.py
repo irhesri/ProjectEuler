@@ -4,7 +4,7 @@ def isPalindrome(n):
     return (n == n[::-1]);
 
 t = int(input().strip())
-for a0 in range(t):
+for a in range(t):
     n = int(input().strip())
     max = 0;
     for i in range (999, 99, -1):

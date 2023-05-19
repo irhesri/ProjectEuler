@@ -33,7 +33,9 @@ ___
 Find the largest prime factor of a given number.
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem?isFullScreen> Problem 4: </a> Largest palindrome product <sup>[Medium]</sup>
-Find the largest palindrome made from the product of two n-digit numbers.
+[Hackerrank] Find the largest palindrome made from the product of two 3-digit numbers which is less than a given number N.
+
+[projecteuler] Find the largest palindrome made from the product of two 3-digit numbers.
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem?isFullScreen> Problem 5: </a> Smallest multiple <sup>[Medium]</sup>
 Find the smallest positive number that is evenly divisible by all of the numbers from 1 to a given number.
@@ -75,3 +77,6 @@ ___
 [Hackerrank] Given a number, you have to write it in words. 
 
 [projecteuler] Find the number of letters used to write out all the numbers from 1 to a given number, inclusive. (writing out numbers is in compliance with British usage)
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler018/problem?isFullScreen> Problem 18: </a>  Maximum path sum I <sup>[Easy]</sup>
+Find the maximum sum of numbers that can be obtained by starting at the top of a triangle of numbers and moving to adjacent numbers on the row below, for a given triangle.
