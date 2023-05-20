@@ -80,3 +80,6 @@ ___
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler018/problem?isFullScreen> Problem 18: </a>  Maximum path sum I <sup>[Easy]</sup>
 Find the maximum sum of numbers that can be obtained by starting at the top of a triangle of numbers and moving to adjacent numbers on the row below, for a given triangle.
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler019/problem?isFullScreen> Problem 19: </a>  Counting Sundays <sup>[Easy]</sup>
+Find the number of Sundays that fell on the first of the month between two dates(both inclusive)
