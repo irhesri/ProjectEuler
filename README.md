@@ -83,3 +83,6 @@ Find the maximum sum of numbers that can be obtained by starting at the top of a
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler019/problem?isFullScreen> Problem 19: </a>  Counting Sundays <sup>[Easy]</sup>
 Find the number of Sundays that fell on the first of the month between two dates(both inclusive)
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler020/problem?isFullScreen> Problem 20: </a>  Factorial digit sum <sup>[Easy]</sup>
+Find the sum of the digits in the number N!
