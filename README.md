@@ -86,3 +86,6 @@ Find the number of Sundays that fell on the first of the month between two dates
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler020/problem?isFullScreen> Problem 20: </a>  Factorial digit sum <sup>[Easy]</sup>
 Find the sum of the digits in the number N!
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler021/copy-from/1361602083?isFullScreen> Problem 21: </a>  Amicable numbers <sup>[Easy]</sup>
+Evaluate the sum of all the amicable numbers under a given number. Amicable numbers are pairs of numbers where the sum of the proper divisors of each number equals the other number.
