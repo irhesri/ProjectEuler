@@ -88,4 +88,7 @@ ___
 Find the sum of the digits in the number N!
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler021/copy-from/1361602083?isFullScreen> Problem 21: </a>  Amicable numbers <sup>[Easy]</sup>
-Evaluate the sum of all the amicable numbers under a given number. Amicable numbers are pairs of numbers where the sum of the proper divisors of each number equals the other number.
+Evaluate the sum of all the amicable numbers under a given number.
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler022/copy-from/1361602158?isFullScreen> Problem 22: </a>  Names scores <sup>[Easy]</sup>
+Calculate the total score of a list of names, where the score for each name is calculated by multiplying its alphabetical position by the sum of its letter values.
