@@ -94,5 +94,8 @@ ___
 Calculate the total score of a list of names, where the score for each name is calculated by multiplying its alphabetical position by the sum of its letter values.
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler023/copy-from/1361602291?isFullScreen> Problem 23: </a>  Non-abundant sums <sup>[Easy]</sup>
-[Hackerrank] Given , print YES if it can be expressed as sum of two abundant numbers, else print NO.
-[projecteuler] Find the sum of all positive integers that cannot be written as the sum of two abundant numbers. Abundant numbers are those whose proper divisors sum up to a number greater than the original number.
+- Abundant numbers are those whose proper divisors sum up to a number greater than the original number.
+
+[Hackerrank] Given N, print YES if it can be expressed as sum of two abundant numbers, else print NO.
+
+[projecteuler] Find the sum of all positive integers that cannot be written as the sum of two abundant numbers.
