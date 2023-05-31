@@ -99,3 +99,6 @@ ___
 [Hackerrank] Given N, print YES if it can be expressed as sum of two abundant numbers, else print NO.
 
 [projecteuler] Find the sum of all positive integers that cannot be written as the sum of two abundant numbers.
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler024/problem?isFullScreen> Problem 24: </a>  Lexicographic permutations <sup>[Easy]</sup>
+What is the N<sup>th</sup> lexicographic permutation of the word "abcdefghijklm".
