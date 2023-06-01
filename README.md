@@ -101,4 +101,7 @@ ___
 [projecteuler] Find the sum of all positive integers that cannot be written as the sum of two abundant numbers.
 ___
 ## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler024/problem?isFullScreen> Problem 24: </a>  Lexicographic permutations <sup>[Easy]</sup>
-What is the N<sup>th</sup> lexicographic permutation of the word "abcdefghijklm".
+Find the N<sup>th</sup> lexicographic permutation of the word "abcdefghijklm".
+___
+## <a href=https://www.hackerrank.com/contests/projecteuler/challenges/euler025/problem?isFullScreen> Problem 25: </a>  N-digit Fibonacci number <sup>[Easy]</sup>
+Find the first term in the Fibonacci sequence to contain N digits.
